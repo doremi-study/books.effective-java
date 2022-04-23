@@ -1,4 +1,8 @@
-package com.book.effectivejava.yeon.chapter2;
+package com.book.effectivejava.yeon.chapter2.item2;
+
+import com.book.effectivejava.yeon.chapter2.item2.Coffee;
+import com.book.effectivejava.yeon.chapter2.item2.Coffee2;
+import com.book.effectivejava.yeon.chapter2.item2.Coffee3;
 
 public class MakeCoffee {
     public static void main(String[] args) {

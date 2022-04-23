@@ -17,7 +17,7 @@ public class UtilityClass {
         인스턴스로 사용하기 위해 만든 클래스가 아니라면! ex) Util성 클래스
          */
         UtilityClass utilityClass = new UtilityClass();
-        utilityClass.hello();
+        utilityClass.hello();//자동완성은 안되지만 문법적으로는 가능한 코드
 
         /*
         인스턴스 목적으로 사용할 메서드인지, static 목적으로 사용할 메서드인지 헷갈리게 만들 수 있기 때문에
