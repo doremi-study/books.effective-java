@@ -1,4 +1,4 @@
-package com.book.effectivejava.yeon.chapter2;
+package com.book.effectivejava.yeon.chapter2.item2;
 
 public class Coffee {
 
