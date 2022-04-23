@@ -138,5 +138,5 @@ AssertionError를 활용한다면 내부 인스턴스화까지 막아둘 수 있
 </aside>
 <img width="628" alt="annotationConfigUtils" src="https://user-images.githubusercontent.com/47437757/164872952-3526bf2c-0026-4bfd-86be-f072b1faf995.png">
 
-⬇️ 아래처럼 기본 생성자를 두고 아무런 작업이 없다는 의미로 `/* no-op */` 주석을 달기도 하는 것 같다.
+⬇️ 아래처럼 기본 생성자를 두고 아무런 작업이 없다는 의미로 `/* no-op */` 주석을 달기도 하는 것 같다.  
 <img width="318" alt="no_op" src="https://user-images.githubusercontent.com/47437757/164872953-0158abdf-a6ad-4340-9b8a-bebccbfc0788.png">
