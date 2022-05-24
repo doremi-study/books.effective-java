@@ -2,8 +2,10 @@ package com.book.effectivejava.juu.chapter2.item5.springioc;
 
 import java.util.List;
 
-import com.book.effectivejava.juu.chapter2.item5.Dictionary;
+import org.springframework.stereotype.Component;
 
+import com.book.effectivejava.juu.chapter2.item5.Dictionary;
+@Component
 public class SpellChecker {
 
 	private Dictionary dictionary;
