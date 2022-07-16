@@ -14,5 +14,6 @@ public class WeakReferenceExample {
 
         //무조건 사라진다.
         System.out.println(weak.get());
+
     }
 }
